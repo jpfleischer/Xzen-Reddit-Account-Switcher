@@ -70,4 +70,4 @@ You are free to:
 
 Extension Store Page: https://chromewebstore.google.com/detail/xzen-reddswitcher/phgceelfckbblkoenaaajalniclklcia
 Patreon: https://www.patreon.com/c/Yuilix
->nothing much in it if you want you can donate its up to you ^-^
+>nothing much in it if you want you can donate its up to you ^-^ also keep in mind i have exams incoming i may not reply as fast as i can but i will try my best
