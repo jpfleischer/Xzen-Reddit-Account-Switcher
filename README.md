@@ -1,3 +1,5 @@
+# NOTICE: We're aware of the latest update not working in chromium. An update is already published but due to google review process we cannot provide an instant fix. Please wait at least 1 to 3 days till it's published. We're sorry for the bad experience we caused.
+
 # uSwitch: Reddit Accounts
 > A simple browser extension that lets you switch between your Reddit accounts with a single click fastly & private.
 
