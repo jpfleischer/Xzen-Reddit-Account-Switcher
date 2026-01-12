@@ -3,12 +3,12 @@
 # uSwitch: Reddit Accounts
 > A simple browser extension that lets you switch between your Reddit accounts with a single click fastly & private.
 
-## ✨ Overview
+## Overview
 > uSwitch securely saves and restores your reddit_session cookies right inside your browser.
 >
 > No servers. No trackers. No logins required.
 
-## 🔐 Privacy First
+## About Privacy
 > Local only: **All data stays in your computer's local storage.**
 > 
 > Encrypted Protection: Your session cookies **are protected using AES-GCM encryption.**
@@ -20,11 +20,11 @@
 ## ⚙️ Features
 > 🗂 Session Manager: Rename saved accounts, Hide, Delete even re-Order them!
 > 
-> 🌒 Dark UI: A clean minimal dark theme for comfortable use.
+> 🌒 Dark UI: A clean dark theme for comfortable use.
 > 
 > 🔑 Auto Encryption: Keys are auto-generated and securely stored.
 
-## 🚀 Installation
+## Installation:
 
 > Clone or download this repository:
 > git clone https://github.com/LXRylex/Xzen-Reddit-Account-Switcher
@@ -41,7 +41,7 @@
 > 
 > Pin uSwitch to your toolbar for easy access.
 
-## 📦 Usage
+## Usage
 
 > Open the popup from the toolbar.
 > 
@@ -51,14 +51,14 @@
 > 
 > Use ✏️ to rename, 👁/𓂋 to hide or reveal, or 🗑 to delete.
 
-## 🧭 Versioning
+## Versioning
 > Segment	Meaning
 >
-> 1-Extension version
+> 3-Extension version
 >
-> 7-Month of release
+> 11-Month         (Versioning have been updated at: 12/01/2026)
 >
-> 16-Day of update
+> 26-Year
 
 ## 🤝 Contributing
 Pull requests and issue reports are always welcome.
