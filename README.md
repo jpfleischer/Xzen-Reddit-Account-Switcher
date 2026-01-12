@@ -1,5 +1,3 @@
-# NOTICE: The fix patch have been released, Update your extension if it gives an error.
-
 # uSwitch: Reddit Accounts
 > A simple browser extension that lets you switch between your Reddit accounts with a single click fastly & private.
 
